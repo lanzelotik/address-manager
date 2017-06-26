@@ -1,0 +1,31 @@
+.address-manager-module h4{
+    margin: 10px 0 5px 0;
+}
+.addresses, .address {
+    width: 490px;
+}
+.address-item.default td {
+    font-weight: bold;
+}
+
+#locationField {
+    position: relative;
+    width: 482px;
+    height: 20px;
+    margin-bottom: 2px;
+}
+#autocomplete {
+    width: 99%;
+}
+#address {
+    width: 488px;
+}
+#address td {
+    font-size: 10pt;
+}
+.slimField input {
+    width: 80px;
+}
+.wideField input {
+    width: 99%;
+}
